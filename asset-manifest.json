@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/counter-dapp/static/css/main.f97264d8.css",
+    "main.js": "/counter-dapp/static/js/main.91106304.js",
+    "static/js/787.7470ec7d.chunk.js": "/counter-dapp/static/js/787.7470ec7d.chunk.js",
+    "index.html": "/counter-dapp/index.html",
+    "main.f97264d8.css.map": "/counter-dapp/static/css/main.f97264d8.css.map",
+    "main.91106304.js.map": "/counter-dapp/static/js/main.91106304.js.map",
+    "787.7470ec7d.chunk.js.map": "/counter-dapp/static/js/787.7470ec7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f97264d8.css",
+    "static/js/main.91106304.js"
+  ]
+}
